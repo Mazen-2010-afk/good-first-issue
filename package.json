@@ -1,0 +1,13 @@
+{
+  "name": "awesome-rocks",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A curated list of rocks.",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\""
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.13.0"
+  },
+  "license": "MIT"
+}
