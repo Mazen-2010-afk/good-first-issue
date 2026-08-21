@@ -17,7 +17,7 @@ The rocks are real, though. The rocks were never the joke.
 
 ## The List
 
-Rocks are ranked by hardness, sorted by name and annotated with a vibe.
+Rocks are grouped by classification, sorted by name, and annotated with an approximate Mohs hardness and a vibe.
 
 ### Igneous
 
@@ -34,7 +34,7 @@ Rocks are ranked by hardness, sorted by name and annotated with a vibe.
 | Rock | Hardness | Vibe | Source |
 | --- | --- | --- | --- |
 | Limestone | 3.0 | agreeable | [USGS](https://www.usgs.gov/) |
-| Sandstone | 6.5 | coarse | [USGS](https://www.usgs.gov/) |
+| Sandstone | 3.5 | coarse | [USGS](https://www.usgs.gov/) |
 
 ### Metamorphic
 

@@ -17,9 +17,17 @@ Each rock is a single table row:
 | Column | Rules |
 | --- | --- |
 | `Rock` | Proper name, Title Case. No trailing punctuation. |
-| `Hardness` | Mohs hardness as a number with exactly one decimal place, e.g. `6.0`. Use the midpoint if a range is commonly cited. |
+| `Hardness` | Approximate Mohs hardness of a typical sample, as a number with exactly one decimal place, e.g. `6.0`. Rocks are aggregates, so this is a convention rather than a measurement; use the value most commonly cited, or the midpoint of a commonly cited range. |
 | `Vibe` | One to three lowercase words describing the rock's general disposition. Must be an adjective or adjectival phrase. |
 | `Source` | A markdown link to a reputable reference. Required. |
+
+## What counts as a rock
+
+Rocks are naturally occurring aggregates of one or more minerals (or mineraloids, or organic
+matter, in the case of coal). Single minerals (quartz, diamond), unconsolidated sediments
+(loess, peat), and terrestrial impact glasses (tektites) are out of scope unless the list
+explicitly makes an exception. Meteorites and lunar/martian samples go under
+**Extraterrestrial**.
 
 ## Vibes
 
