@@ -22,6 +22,7 @@ Rocks are grouped by classification, sorted by name, and annotated with an appro
 ### Igneous
 
 | Rock | Hardness | Vibe | Source |
+| Monzonite | 6.0 | moderate | [Wikipedia](https://en.wikipedia.org/wiki/Monzonite) |
 | --- | --- | --- | --- |
 | Basalt | 6.0 | dependable | [USGS](https://www.usgs.gov/) |
 | Bassalt | 6.0 | dependable | [USGS](https://www.usgs.gov/) |
