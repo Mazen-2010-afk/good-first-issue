@@ -35,7 +35,7 @@ Rocks are grouped by classification, sorted by name, and annotated with an appro
 | --- | --- | --- | --- |
 | Limestone | 3.0 | agreeable | [USGS](https://www.usgs.gov/) |
 | Sandstone | 3.5 | coarse | [USGS](https://www.usgs.gov/) |
-| Radiolarite | 7.0 | siliceous | [Wikipedia](https://en.wikipedia.org/wiki/Radiolarite) |
+| Diatomite | 1.5 | microscopic | [Wikipedia](https://en.wikipedia.org/wiki/Diatomaceous_earth) |
 
 ### Metamorphic
 
