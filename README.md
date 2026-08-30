@@ -35,7 +35,7 @@ Rocks are grouped by classification, sorted by name, and annotated with an appro
 | --- | --- | --- | --- |
 | Limestone | 3.0 | agreeable | [USGS](https://www.usgs.gov/) |
 | Sandstone | 3.5 | coarse | [USGS](https://www.usgs.gov/) |
-| Dolostone | 3.5 | secondary | [Wikipedia](https://en.wikipedia.org/wiki/Dolomite_(rock)) |
+| Travertine | 3.5 | spa like | [Wikipedia](https://en.wikipedia.org/wiki/Travertine) |
 
 ### Metamorphic
 
